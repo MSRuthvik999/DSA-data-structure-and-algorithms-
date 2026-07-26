@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MSRuthvik999/DSA-data-structure-and-algorithms-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/MSRuthvik999/DSA-data-structure-and-algorithms-/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/MSRuthvik999/DSA-data-structure-and-algorithms-/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/MSRuthvik999/DSA-data-structure-and-algorithms-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/MSRuthvik999/DSA-data-structure-and-algorithms-/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/MSRuthvik999/DSA-data-structure-and-algorithms-/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/MSRuthvik999/DSA-data-structure-and-algorithms-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -24,9 +25,14 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MSRuthvik999/DSA-data-structure-and-algorithms-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/MSRuthvik999/DSA-data-structure-and-algorithms-/tree/master/0075-sort-colors) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/MSRuthvik999/DSA-data-structure-and-algorithms-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/MSRuthvik999/DSA-data-structure-and-algorithms-/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/MSRuthvik999/DSA-data-structure-and-algorithms-/tree/master/0075-sort-colors) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/MSRuthvik999/DSA-data-structure-and-algorithms-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
