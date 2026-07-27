@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/MSRuthvik999/DSA-data-structure-and-algorithms-/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/MSRuthvik999/DSA-data-structure-and-algorithms-/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/MSRuthvik999/DSA-data-structure-and-algorithms-/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MSRuthvik999/DSA-data-structure-and-algorithms-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/MSRuthvik999/DSA-data-structure-and-algorithms-/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/MSRuthvik999/DSA-data-structure-and-algorithms-/tree/master/0136-single-number) |
@@ -25,6 +26,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/MSRuthvik999/DSA-data-structure-and-algorithms-/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/MSRuthvik999/DSA-data-structure-and-algorithms-/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MSRuthvik999/DSA-data-structure-and-algorithms-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/MSRuthvik999/DSA-data-structure-and-algorithms-/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MSRuthvik999/DSA-data-structure-and-algorithms-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -33,6 +35,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/MSRuthvik999/DSA-data-structure-and-algorithms-/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/MSRuthvik999/DSA-data-structure-and-algorithms-/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/MSRuthvik999/DSA-data-structure-and-algorithms-/tree/master/0075-sort-colors) |
 ## Binary Search
 |  |
